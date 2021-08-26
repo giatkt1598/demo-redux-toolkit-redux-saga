@@ -8,3 +8,5 @@ npm install
 ```bash
 npm run dev
 ```
+## Screenshots
+![Pic1](/screenshots/pic1.png)
